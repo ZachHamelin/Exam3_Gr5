@@ -1,3 +1,7 @@
+import hashlib
+
+
+
 
 messages_gr5 = {
     "pseudo" : "IronCode",
